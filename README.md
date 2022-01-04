@@ -61,10 +61,10 @@
 
 ## Connect with me:
 <p align="left">
-    <a align="left" href="https://www.youtube.com/channel/UCFn-eW016ioB-aqkAC7CJVw/about" target="blank">
+    <a align="center" href="https://www.youtube.com/channel/UCFn-eW016ioB-aqkAC7CJVw/about" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hokanosekai" height="30" width="40" />
     </a>
-    <a align="left" href="https://discord.gg/Hokanosekai#0001" target="blank">
+    <a align="center" href="https://discord.gg/Hokanosekai#0001" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hokanosekai#0001" height="30" width="40" />
     </a>
 </p>
