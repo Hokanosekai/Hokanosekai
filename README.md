@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hokanosekai's streak" src="https://github-readme-stats-8lpz5p8hw-hokanosekai.vercel.app/api?username=hokanosekai&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hokanosekai's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Hokanosekai&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
