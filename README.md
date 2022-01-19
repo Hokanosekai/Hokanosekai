@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hokanosekai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hokanosekai&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hokanosekai's streak" src="https://http://readme-stats-hokanosekai.vercel.app/?user=Hokanosekai&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -40,10 +40,10 @@
 
  <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hokanosekai&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Hokanosekai's Github Stats" src="https://http://readme-stats-hokanosekai.vercel.app/api?username=Hokanosekai&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokanosekai&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Hokanosekai's Top Languages" src="https://http://readme-stats-hokanosekai.vercel.app/api/top-langs/?username=Hokanosekai&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 
@@ -53,7 +53,7 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hokanosekai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="Hokanosekai's Activity Graph" src="https://http://readme-stats-hokanosekai.vercel.app/graph?username=Hokanosekai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
 <br/>
