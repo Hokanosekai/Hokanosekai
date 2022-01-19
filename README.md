@@ -53,7 +53,7 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Activity Graph" src="https://github-readme-stats-8lpz5p8hw-hokanosekai.vercel.app/api?username=Hokanosekai&theme=radical&hide_border=true&stroke=0000&background=060A0CD0/graph?username=Hokanosekai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="Hokanosekai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hokanosekai&theme=rogue" />
 </a>
 
 <br/>
