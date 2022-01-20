@@ -71,6 +71,10 @@
 
 </p>
 
+## PronoBot
+
+[![Discord Bots](https://top.gg/api/widget/835256483356737546.svg)(https://top.gg/bot/835256483356737546)
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hokanosekai">
