@@ -83,3 +83,5 @@
 <a href="https://github.com/Hokanosekai?tab=followers">
     <img src="https://img.shields.io/github/followers/Hokanosekai?label=Followers&style=social" alt="GitHub Badge">
 </a>
+
+[![Discord Bots](https://top.gg/api/widget/servers/835256483356737546.svg)(https://top.gg/bot/835256483356737546)
