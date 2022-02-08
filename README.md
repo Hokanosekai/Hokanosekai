@@ -71,10 +71,6 @@
 
 </p>
 
-## PronoBot
-
-[![Discord Bots](https://top.gg/api/widget/835256483356737546.svg)(https://top.gg/bot/835256483356737546)
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hokanosekai">
@@ -83,5 +79,3 @@
 <a href="https://github.com/Hokanosekai?tab=followers">
     <img src="https://img.shields.io/github/followers/Hokanosekai?label=Followers&style=social" alt="GitHub Badge">
 </a>
-
-[![Discord Bots](https://top.gg/api/widget/servers/835256483356737546.svg)(https://top.gg/bot/835256483356737546)
