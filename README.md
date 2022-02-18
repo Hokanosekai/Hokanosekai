@@ -40,10 +40,10 @@
 
  <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Github Stats" src="https://github-readme-stats-8lpz5p8hw-hokanosekai.vercel.app/api?username=hokanosekai&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Hokanosekai's Github Stats" src="https://github-readme-stats-73bh8cvtx-hokanosekai.vercel.app/api?username=hokanosekai&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hokanosekai's Top Languages" src="https://github-readme-stats-8lpz5p8hw-hokanosekai.vercel.app/api/top-langs/?username=hokanosekai&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Hokanosekai's Top Languages" src="https://github-readme-stats-73bh8cvtx-hokanosekai.vercel.app/api/top-langs/?username=hokanosekai&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 
