@@ -72,6 +72,14 @@
 </p>
 
 ## ❤ Views and Followers
+<a href="https://top.gg/bot/835256483356737546">
+  <img src="https://top.gg/api/widget/upvotes/835256483356737546.svg">
+</a>
+
+<a href="https://top.gg/bot/835256483356737546">
+  <img src="https://top.gg/api/widget/servers/835256483356737546.svg">
+</a>
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hokanosekai">
 </a>
