@@ -5,6 +5,18 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hokanosekai</h1>
 
+## PronoBot
+
+A Discord Bot that's allow you to make custom bets with custom odds and let your Discord community bet on it.
+The V2 is currently in development, she will be available in few months.
+
+<a href="https://top.gg/bot/835256483356737546">
+  <img src="https://top.gg/api/widget/upvotes/835256483356737546.svg">
+</a>
+
+<a href="https://top.gg/bot/835256483356737546">
+  <img src="https://top.gg/api/widget/servers/835256483356737546.svg">
+</a>
 
 ## 🙋‍♂️ About Me
 
@@ -72,13 +84,6 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://top.gg/bot/835256483356737546">
-  <img src="https://top.gg/api/widget/upvotes/835256483356737546.svg">
-</a>
-
-<a href="https://top.gg/bot/835256483356737546">
-  <img src="https://top.gg/api/widget/servers/835256483356737546.svg">
-</a>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hokanosekai">
